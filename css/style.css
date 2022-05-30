@@ -1,0 +1,31 @@
+table{width: 100%;height: 100%;}
+.header{width: 100%;height: 50px;background: #000000;line-height: 50px;text-align: center;color: #fff;}
+.nav{height: 50px;text-align: center;line-height: 50px;width: 100%;border-bottom: 1px solid #CCCCCC;}
+.nav li{display: inline-block;width: 150px;text-align: center;}
+.nav li a{color: #000000;}
+.nav li:hover a{border-bottom: 1px solid #CCCCCC;}
+.main{width: 1200px;margin: 0 auto;margin-top:60px;}
+.main_leftk{width: 700px;border-right: 1px solid #CCCCCC;float: left;}
+.main_left{width: 530px;margin: 10px auto;}
+.main_left img{width: 530px;height:800px;}
+.main_left p{font-size: 24px;margin-top: 20px;}
+.main_left a{display: block;}
+.main_left span{margin: 20px 0;display: block;}
+.main_rightk{float: right;width: 400px;}
+.main_right{width: 400px;margin: 50px auto;}
+.main_right img{width: 400px;height: 300px;}
+.main_right p{font-size: 24px;margin-top: 20px;}
+.main_right a{display: block;}
+.main_right span{margin: 20px 0;display: block;}
+.foot{width: 100%;margin-top: 50px;padding-top: 50px;border-top: 1px solid #CCCCCC;height: 300px;}
+.foot_left{width: 800px;float: left;}
+.foot-list{width: 260px;float: left;}
+.foot-list li{line-height: 30px;}
+.foot-list li a{color: #000000;}
+.foot-k{width: 1200px;margin: 0 auto;}
+.foot_right{width: 400px;float: right;}
+.foot_right>p{margin: 20px 0;}
+.foot_list input{background: #CCCCCC;display: block;margin: 5px 0; height: 25px;width: 250px;padding-left: 10px;}
+.foot_list p{margin: 8px 0;}
+.foot_btn{display: block;width: 80px;height: 50px;background: #000000;line-height: 50px;text-align: center;color: #fff;margin-top: 30px;float: left;}
+.foot_bp{float: right;line-height: 50px;margin-top: 30px;color: #000000;}
